@@ -4,3 +4,9 @@
 
 - SAP（单页面）
 - SSR（服务端渲染）
+
+## 版本
+
+- swiper: `4.0.7`
+- vue-awesome-swiper: `^3.1.1`
+
