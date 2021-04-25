@@ -5,7 +5,7 @@
 - SAP（单页面）
 - SSR（服务端渲染）
 
-Swiper的官方地址是：[Swiper 中文](https://www.swiper.com.cn/)
+Swiper的官方地址是：[Swiper 中文](https://www.swiper.com.cn/)，现在已经更新到Swiper6了。
 
 ## 版本
 
